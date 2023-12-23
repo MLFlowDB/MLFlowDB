@@ -1,4 +1,4 @@
-# MLFlowDB: A Unified Management Tool for the Entire Lifecycle of Machine Learning
+# A Semantic Data Model for Describing the Full Lifecycle of Machine Learning and Its Implementation
 
 **Due to the double-blind principle, we do not provide any author information or contact details until the paper review process is completed.**
 
