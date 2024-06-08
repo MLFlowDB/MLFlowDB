@@ -1,8 +1,8 @@
-# A Semantic Data Model for Describing the Full Lifecycle of Machine Learning and Its Implementation
+# Toward Repeatable, Understandable and Collaborative: Modeling, Storing and Tracing Full Lifecycle of Machine Learning
 
 **Due to the double-blind principle, we do not provide any author information or contact details until the paper review process is completed.**
 
-This paper has been submitted to *DASFAA 2024*.
+This paper has been submitted to *SSDBM 2024*.
 
 <img src="https://github.com/MLFlowDB/MLFlowDB/blob/main/README.assets/Logo.png?raw=true" alt="Logo" style="zoom:50%;" />
 
